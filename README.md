@@ -1,16 +1,16 @@
-### Hi there 👋
+# ⚡ David Faria
 
-<!--
-**davidfaria/davidfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer**
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidfaria89/)](https://www.linkedin.com/in/davidfaria89/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Atualmente em contato com as tecnologias (Node.js, React.js, Next.js, Vue.js, TDD jest, SOLID)
+- 📚 Gosto de ensinar e aprender (compartilhar conhecimento)
+- 🐧 Linux user :)
+- 🎥 Filmes e séries 
+- 🚴‍♂ Rolê de MTB com os amigos
+
+
+> "KISS - Keep It Simple, Stupid" - https://pt.wikipedia.org/wiki/Princ%C3%ADpio_KISS
+
+> "YAGNI - (You Ain't Gonna Need It)" - https://pt.wikipedia.org/wiki/YAGNI
